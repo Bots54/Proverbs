@@ -1,104 +1,27 @@
-Gukira kuri ngatho
-Translation: To keep one's tongue is worthy of praise
-English equivalent: Silence is golden.
-Mwenda uthaka ndacayaga.
-Translation: One who would beauty does not flinch.
-1,000 KIKUYU PROVERBS
-
-
-
-
-Thimo ngiri ĩmwe cia Gĩkũyũ
-
-
-
-
-A
-
-
-1. Agĩkũyũ moĩ kũhitha ndĩa, matiũĩ kũhitha ũhoro
-Literal translation: The Kikuyu know how to conceal their quiver, but do not know how to conceal their secrets.
-Contextual note: The Kikuyu, though very clever in concealing their arms, cannot keep secrets from the members of their tribe.
-2. Ageni erĩ matirĩ ũtugĩre
-Literal translation: Two guests (at the same time) have no welcome.
-3. Ageni erĩ na karirũĩ kao.
-Literal translation: Two guests love a different song.
-Contextual note: When you receive two visitors at the same time, you cannot treat them in the same manner because they have different tastes.
-English equivalent: Every man has his hobby horse.
-4. Aikaragia mbia ta njũũ ngigĩ
-Literal translation: He is a man that looks after money as ‘njũũ’ looks after locusts.
-Contextual note: ‘Njũũ’ is a bird which accompanies migrating locusts to feed on them.
-English equivalent: Much wants more.
-5. Aka erĩ nĩ nyũngũ igĩrĩ cia ũrogi
-Literal translation: Two wives are two pots full of poison.
-Contextual note: The more women you have in your house, the more troubles you must expect.
-English equivalent: Women’s jars breed men’s wars.
-6. Aka matirĩ cia ndiiro no cia nyinĩko
-Literal translation: Women have no upright words, but only crooked ones.
-Contextual note: The Kikuyu use the proverb to say that women keep no secrets and seldom tell the truth.
-English equivalent: Women conceal all that they know not.
-7. Aka na ng’ombe itirĩ ndũgũ
-Literal translation: Wives and oxen have no friends.
-Contextual note: There are things which are not to be given to friends.
-English equivalent: A woman is to be from her house three times: when she is christened, married, and buried.
-8. Andũ maiganaine magĩthiĩ na magĩceera
-Literal translation: Men are equal when they are going and walking.
-Contextual note: One can tell a difference between two men's character when they are commanding or working, but not when walking down the road.
-9.Andũ matarĩ ndundu mahũragwo na njũgũma ĩmwe
-Literal translation: People who have not secret agreement are beaten by a single club.
-Contextual note: A group of men not bound by a secret will be easily beaten by a single man.
-English equivalent: Lack of union is weakness.
-10. Andũ matiũĩ ngamini
-Literal translation: Men do not know liberality.
-Contextual note: One does not give without hope of return.
-11. Andũ matiũĩ ngũ, moĩ ithendũ
-Literal translation: Me do not know hard firewood, but only lops.
-Contextual note: People put aside hard tasks and devote themselves only to easy ones.
-12. Andũ me muoyo matiagaga wĩra
-Literal translation: Live men do not lack work.
-English equivalent: Life would be too smooth if it had no rubs in it.
-13. Angĩmĩtuĩria na ũmĩrĩte ndangĩmĩona rikiĩ
-Literal translation: He who seeks his goat with the man who ate it, is certain not to find it.
-Contextual note: Do not look for stolen goods in the robber's house.
-14. Arũme marĩ rwamba
-Literal translation: Men have got quills.
-Contextual note: Do not annoy others because they will respond by hurting.
-English equivalent: What goes around comes around; Do unto others as you would have them do unto you.
-A statement of the w:Golden Rule.
-B
-
-
-15. Bata ndũbatabataga
-Literal translation: Necessities never end.
-English equivalent: He that will have no trouble in this world must not be born in it.
-C
-
-
-16. Cia athuri inyuagĩra thutha
-Literal translation: The elders drink afterwards (i.e after the others).
-Contextual note: Elderly people are not in such a hurry as young ones.
-17. Ciakorire wacũ mũgũnda
-Literal translation: The food found Wacũ in the field.
-Contextual note: The proverb originates in the legend of Wacũ, the most despised amongst the wives of a rich man who never gave her any presents. One day, when a banquet was being held at home, she went to work in the field, since she knew there would be nothing for her at home. In the middle of the banquet a raven swooped down in the courtyard where the meat was being roasted, snatched a big piece and brought it to Wacũ. The Kikuyu use the proverb to say that God takes care of His poor.
-18. Cia kĩonje itigayagwo gĩtanakua
-Literal translation: The property of a helpless man must not be divided before his death.
-Contextual note: The reason is that he is unable to get anything more than he already possesses.
-19. Cia mũciĩ irĩ gacũgũma gacio gatathukagio nĩ mũthuri ũngĩ tiga mweneguo
-Literal translation: Home affairs have their staff, which cannot be brandished by anyone but the head of the house.
-Contextual note: The proverb means either that private matters must not be spoken of to strangers or that in each house there must be only one in authority.
-20. Cia mũciĩ itiumaga ndĩra
-Literal translation: Home affairs must not go into the open.
-English equivalent: Do not wash dirty linen in public.
-21. Cia mũciĩ ti como
-Literal translation: Home affairs cannot be told in public.
-English equivalent: Do not wash dirty linen in public.
-22. Ciana cia ndigwa itirĩ maithori
-Literal translation: The widow’s sons have not tears.
-Contextual note: It means that they have been accustomed to suffer very early.
-23. Ciathanaga ikĩgũa, itiathanaga ikĩũmbũka
-Literal translation: Birds agree when flying down, but do not agree when flying up.
-Contextual note: The proverb means that it is easy for a swarm of birds to alight together, while it is difficult to get up together since after eating their fill they will fly up separately. Morally the proverb means that men easily agree when deciding on an enterprise, but will probably quarrel as soon as they have obtained what they want.
-24. Cia thũgũrĩ itiyũraga ikũmbĩ
+Agĩkũyũ moĩ kũhitha ndĩa, matiũĩ kũhitha ũhoro. Kikuyus know how to conceal their quiver, but do not know how to conceal their secrets.
+Ageni erĩ matirĩ ũtugĩre. Two guests (at the same time) have no welcome.
+Ageni erĩ na karirũĩ kao. Two guests love a different song.
+Aikaragia mbia ta njũũ ngigĩ. He is a man that looks after money as ‘njũũ’ looks after locusts.
+Aka erĩ nĩ nyũngũ igĩrĩ cia ũrogi. Two wives are two pots full of poison.
+Aka matirĩ cia ndiiro no cia nyinĩko. Women have no upright words, but only crooked ones.
+Aka na ng’ombe itirĩ ndũgũ. Wives and oxen have no friends.
+Andũ maiganaine magĩthiĩ na magĩceera. Men are equal when they are going and walking.
+Andũ matarĩ ndundu mahũragwo na njũgũma ĩmwe. People who have not secret agreement are beaten by a single club.
+Andũ matiũĩ ngamini. Men do not know liberality.
+Andũ matiũĩ ngũ, moĩ ithendũ. Me do not know hard firewood, but only lops.
+Andũ me muoyo matiagaga wĩra. Live men do not lack work.
+Angĩmĩtuĩria na ũmĩrĩte ndangĩmĩona rikiĩ. He who seeks his goat with the man who ate it, is certain not to find it.
+Arũme marĩ rwamba. Men have got quills.
+Bata ndũbatabataga. Necessities never end.
+Cia athuri inyuagĩra thutha.The elders drink afterwards (i.e after the others).
+Ciakorire wacũ mũgũnda. The food found Wacũ in the field.
+Cia kĩonje itigayagwo gĩtanakua. The property of a helpless man must not be divided before his death.
+Cia mũciĩ irĩ gacũgũma gacio gatathukagio nĩ mũthuri ũngĩ tiga mweneguo. Home affairs have their staff, which cannot be brandished by anyone but the head of the house.
+Cia mũciĩ itiumaga ndĩra. Home affairs must not go into the open.
+Cia mũciĩ ti como. Home affairs cannot be told in public.
+Ciana cia ndigwa itirĩ maithori. The widow’s sons have not tears.
+Ciathanaga ikĩgũa, itiathanaga ikĩũmbũka. Birds agree when flying down, but do not agree when flying up.-----------------------------
+Cia thũgũrĩ itiyũraga ikũmbĩ
 Literal translation: Bought things do not fill the granary.
 Contextual note: Do not hope to become rich without cultivating your fields.
 25. Ciatura ngũyũ irĩaga ng’umo
